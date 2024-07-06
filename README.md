@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" width="24" /> Hi! 
+# <img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" width="32" /> Hi! 
 
 Email: <a href="mailto:riveronly@outlook.com">riveronly@outlook.com</a>  
 
